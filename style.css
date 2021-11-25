@@ -39,3 +39,21 @@
 .cat3{
     background-color: blue;
 }
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.contact{
+    height: 300px;
+}
+.contact h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
